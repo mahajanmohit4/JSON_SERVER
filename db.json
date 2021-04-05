@@ -1,0 +1,39 @@
+{
+  "client": [
+    {
+      "id": 1,
+      "c_name": "Mohit",
+      "c_code": "client code",
+      "c_spoc_name": "Client Single point of contact name 1",
+      "c_create_date": "26 May 2021 13:00:00"
+    },
+    {
+      "c_spoc_name": "Client Single point of contact name 1",
+      "c_name": "Rohit",
+      "c_code": "client code",
+      "id": 2
+    }
+  ],
+  "c_team_member":[
+      {
+          "id": 1,
+          "c_member_name": "Mohit Mahajan",
+          "c_member_email": "mohit@gmail.com"
+      }
+  ],
+  "c_doc":[
+      {
+          "id": 1,
+          "c_file_type": "legal_doc",
+          "c_upload_type": "single",
+          "c_filename": "filename 1",
+          "c_file_url": "url",
+          "c_createdate": "date"
+      }
+  ],
+  "c_details":[
+      "client"
+  ]
+
+  
+}
